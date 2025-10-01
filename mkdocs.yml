@@ -80,7 +80,6 @@ nav:
 
 # Header / Footer links and copy
 repo_url: https://github.com/foxglove/mcap
-edit_uri: "edit/main/docs/"
 
 extra:
   analytics:
